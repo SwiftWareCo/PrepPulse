@@ -1,0 +1,18 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" fill="#f7fafb"/>
+  <circle cx="240" cy="190" r="110" fill="#ffffff" stroke="#d9e3e7" stroke-width="2"/>
+  <path d="M240 190 L240 80 A110 110 0 0 1 350 190 Z" fill="#4cc4ba"/>
+  <path d="M240 190 L350 190 A110 110 0 0 1 300 290 Z" fill="#f0c36d"/>
+  <path d="M240 190 L300 290 A110 110 0 0 1 170 250 Z" fill="#7bc8c2"/>
+  <path d="M240 190 L170 250 A110 110 0 0 1 240 80 Z" fill="#6aa4a0"/>
+  <rect x="380" y="110" width="200" height="160" rx="12" fill="#ffffff" stroke="#d9e3e7" stroke-width="2"/>
+  <circle cx="410" cy="140" r="6" fill="#4cc4ba"/>
+  <text x="425" y="145" font-size="14" fill="#465a62">Solar 30%</text>
+  <circle cx="410" cy="170" r="6" fill="#f0c36d"/>
+  <text x="425" y="175" font-size="14" fill="#465a62">Wind 25%</text>
+  <circle cx="410" cy="200" r="6" fill="#7bc8c2"/>
+  <text x="425" y="205" font-size="14" fill="#465a62">Hydro 20%</text>
+  <circle cx="410" cy="230" r="6" fill="#6aa4a0"/>
+  <text x="425" y="235" font-size="14" fill="#465a62">Gas 25%</text>
+  <text x="320" y="40" font-size="16" font-weight="600" text-anchor="middle" fill="#2f3e46">Energy Sources</text>
+</svg>

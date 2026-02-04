@@ -1,0 +1,23 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" fill="#f7fafb"/>
+  <rect x="80" y="60" width="480" height="220" fill="#ffffff" stroke="#d9e3e7" stroke-width="2" rx="16"/>
+  <polyline
+    points="120,240 200,220 280,200 360,170 440,140 520,120"
+    fill="none"
+    stroke="#4cc4ba"
+    stroke-width="4"
+  />
+  <circle cx="120" cy="240" r="5" fill="#4cc4ba" />
+  <circle cx="200" cy="220" r="5" fill="#4cc4ba" />
+  <circle cx="280" cy="200" r="5" fill="#4cc4ba" />
+  <circle cx="360" cy="170" r="5" fill="#4cc4ba" />
+  <circle cx="440" cy="140" r="5" fill="#4cc4ba" />
+  <circle cx="520" cy="120" r="5" fill="#4cc4ba" />
+  <text x="120" y="290" font-size="14" text-anchor="middle" fill="#58737b">Jan</text>
+  <text x="200" y="290" font-size="14" text-anchor="middle" fill="#58737b">Feb</text>
+  <text x="280" y="290" font-size="14" text-anchor="middle" fill="#58737b">Mar</text>
+  <text x="360" y="290" font-size="14" text-anchor="middle" fill="#58737b">Apr</text>
+  <text x="440" y="290" font-size="14" text-anchor="middle" fill="#58737b">May</text>
+  <text x="520" y="290" font-size="14" text-anchor="middle" fill="#58737b">Jun</text>
+  <text x="320" y="40" font-size="16" font-weight="600" text-anchor="middle" fill="#2f3e46">Online Enrollment Growth</text>
+</svg>

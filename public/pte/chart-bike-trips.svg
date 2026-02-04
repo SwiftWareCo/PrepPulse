@@ -1,0 +1,13 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" fill="#f7fafb"/>
+  <rect x="80" y="60" width="480" height="220" fill="#ffffff" stroke="#d9e3e7" stroke-width="2" rx="16"/>
+  <line x1="120" y1="260" x2="520" y2="260" stroke="#9db4bd" stroke-width="2"/>
+  <line x1="120" y1="100" x2="120" y2="260" stroke="#9db4bd" stroke-width="2"/>
+  <rect x="170" y="180" width="60" height="80" fill="#4cc4ba" rx="6"/>
+  <rect x="290" y="150" width="60" height="110" fill="#3aa8a0" rx="6"/>
+  <rect x="410" y="120" width="60" height="140" fill="#2b8d86" rx="6"/>
+  <text x="200" y="290" font-size="14" text-anchor="middle" fill="#58737b">2019</text>
+  <text x="320" y="290" font-size="14" text-anchor="middle" fill="#58737b">2020</text>
+  <text x="440" y="290" font-size="14" text-anchor="middle" fill="#58737b">2021</text>
+  <text x="320" y="40" font-size="16" font-weight="600" text-anchor="middle" fill="#2f3e46">City Bike Trips (thousands)</text>
+</svg>
